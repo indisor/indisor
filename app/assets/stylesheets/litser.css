@@ -892,10 +892,93 @@ footer {
 
 @media screen and (min-device-width: 768px)
 and (max-device-width: 1024px) {
-  .gfg-div {
-    width: 400px;
-    height: 400px;
-    background-color: orange;
-    color: black;
+  #image-2blog {
+ margin-left: 47px;
+    margin-top: 96px;
+    width: 106%;
+    height: 617px;
+
   }
+
+  .blog2-paragrapgh {
+font-size: 50px;
+    font-family: times;
+    text-align: start;
+    line-height: 45px;
+    width: 115vw;
+    margin-top: 2px;
+    margin-left: 42px;
+    line-height: 57px;
+    margin-left: 22px;
+}
+.blog2-conntent {
+    color: #043050;
+    font-family: times;
+    font-size: 64px;
+    margin-top: 33px;
+    margin-left: 21px;
+}
+.blog3-conntent {
+    color: #16507b;
+    font-family: times;
+    font-size: 73px;
+    margin-top: 45px;
+    margin-left: 61px;
+}
+.blog3-paragrapgh {
+        font-size: 36px;
+    font-family: times;
+    text-align: start;
+    width: 124vw;
+    margin-left: 121px;
+    line-height: 18px;
+}
+.img-blog25 {
+    margin-top: 99px;
+    width: 706px;
+    height: 774px;
+    margin-left: 183px;
+}
+.kj3-content {
+    color: #e6f2fb;
+    font-size: 54px;
+    margin-left: 9px;
+    margin-top: -793px;
+}
+
+.col-10 {
+    margin-top: 25px;
+    margin-left: 95px;
+}
+.col-11 {
+    margin-top: -243px;
+    margin-left: 518px;
+}
+.last-blog {
+    background-color: black;
+    width: 100%;
+    margin-top: 206px;
+    height: auto;
+    text-align: center;
+
+}
+.image20 {
+    margin-left: -53px;
+    margin-top: 193px;
+    width: 106vw;
+    height: 40vh;
+}
+.image21-part {
+    margin-left: -53px;
+    margin-top: 193px;
+    width: 106vw;
+    height: 40vh;
+}
+}
+
+.button{
+
+    font-family:sans-serif ;
+    text-align: center;
+    color: black;
 }
